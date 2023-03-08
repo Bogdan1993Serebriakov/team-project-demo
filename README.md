@@ -1,3 +1,5 @@
+https://www.youtube.com/watch?v=sxeW_z5-sq4
+
 # Vanilla App Template
 
 Цей проект було створено за допомогою Vite. Для знайомства та налаштування
